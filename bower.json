@@ -8,6 +8,6 @@
     "main":         [
         "owl.carousel.js",
         "owl/owl.carousel.js",
-        "owl/owl.carousel.css",
-    ],
+        "owl/owl.carousel.css"
+    ]
 }
