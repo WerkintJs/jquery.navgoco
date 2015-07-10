@@ -6,7 +6,7 @@
         "jquery":         "*"
     },
     "main":         [
-        "owl.carousel.js",
+        "jquery.owl.carousel.js",
         "owl/owl.carousel.js",
         "owl/owl.carousel.css"
     ]
