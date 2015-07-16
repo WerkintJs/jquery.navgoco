@@ -1,12 +1,12 @@
 {
-    "name":         "jquery.owl",
+    "name":         "jquery.navgoco",
     "version":      "0.0.1",
     "dependencies": {
         "requirejs.css":  "*",
         "jquery":         "*"
     },
     "main":         [
-        "owl.carousel.js",
-        "owl.carousel.css"
+        "jquery.navgoco.js",
+        "jquery.navgoco.css"
     ]
 }
