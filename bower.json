@@ -6,7 +6,8 @@
         "jquery":         "*"
     },
     "main":         [
-        "jquery.navgoco.js",
-        "jquery.navgoco.css"
+        "navgoco/jquery.navgoco.js",
+        "navgoco/jquery.navgoco.css",
+        "jquery.navgoco.js"
     ]
 }
