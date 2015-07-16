@@ -5,7 +5,7 @@
  * Copyright (c) 2014 Chris T (@tefra)
  * BSD - https://github.com/tefra/navgoco/blob/master/LICENSE-BSD
  */
-define(['jquery','css!./jquery.navgoco'], function(jQuery){
+define(['jquery','css!jquery.navgoco'], function(jQuery){
 	(function($) {
 
 	"use strict";
